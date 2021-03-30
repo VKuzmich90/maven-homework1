@@ -1,0 +1,4 @@
+01:20:27.404 [main] DEBUG by.kuzmich.BinarySearchUtil - first index = 0; last index = 10; element to search = 22
+01:20:27.406 [main] DEBUG by.kuzmich.BinarySearchUtil - We call recursion to narrow down the data
+01:20:27.407 [main] DEBUG by.kuzmich.BinarySearchUtil - first index = 6; last index = 10; element to search = 22
+01:20:27.407 [main] DEBUG by.kuzmich.BinarySearchUtil - the middle element is the desired element
